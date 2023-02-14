@@ -7,7 +7,7 @@ TON CON is a events DAO on The Open Network. Each NFT for the participant, which
 * License CC0
 
 # Metaspace
-(Join)[https://ton.myhubs.net/rMfZDm4/ton-con-2022-boiler-point]
+[Join](https://ton.myhubs.net/rMfZDm4/ton-con-2022-boiler-point)
 
 ## Tokenomics TON CON
 
