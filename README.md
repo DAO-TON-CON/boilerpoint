@@ -6,6 +6,9 @@ TON CON is a events DAO on The Open Network. Each NFT for the participant, which
 * [Digital Boilerpoint place](https://github.com/DAO-TON-CON/boilerpoint/blob/main/TONCON.metaspace)
 * License CC0
 
+# Metaspace
+(Join)[https://ton.myhubs.net/rMfZDm4/ton-con-2022-boiler-point]
+
 ## Tokenomics TON CON
 
 The proposed TON CON model provides for the presence of 4 types of jetton and an NFT management jetton:
