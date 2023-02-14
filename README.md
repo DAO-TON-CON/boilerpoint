@@ -2,6 +2,10 @@
 
 TON CON is a events DAO on The Open Network. Each NFT for the participant, which confirms the information about the DAO membership. Each time you participate in an DAO, TON DAO send a unique NFT, which is verified by a cryptographic record. These NFT are Non-Fungible Tokens and contain all information about the DAO.
 
+# Source Code
+* [Digital Boilerpoint place](https://github.com/DAO-TON-CON/boilerpoint/blob/main/TONCON.metaspace)
+* License CC0
+
 ## Tokenomics TON CON
 
 The proposed TON CON model provides for the presence of 4 types of jetton and an NFT management jetton:
