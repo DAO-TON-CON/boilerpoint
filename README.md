@@ -7,10 +7,9 @@ TON CON is a events DAO on The Open Network. Each NFT for the participant, which
 * License CC0
 
 # Metaspace
-[Join](https://ton.myhubs.net/rMfZDm4/ton-con-2022-boiler-point)
+[Join](https://metaspace.foundation/vhK5HtV/ton-con-2022-boiler-point)
 
 ## Tokenomics TON CON
-
 The proposed TON CON model provides for the presence of 4 types of jetton and an NFT management jetton:
 1. TON CON is a jetton of economic project management. Jetton can be obtained in several ways:
 a. Financing of the DAO, purchase through an AMM contract, purchase of NFT.
